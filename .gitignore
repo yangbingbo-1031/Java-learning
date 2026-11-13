@@ -1,0 +1,10 @@
+# 每个子项目各自的 IDEA 配置与编译产物
+*/.idea/
+*/*.iml
+*/out/
+*/.kotlin/
+
+# 系统与日志
+.DS_Store
+Thumbs.db
+*.log
